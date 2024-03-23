@@ -94,7 +94,7 @@ function Nav() {
         <Link href='https://github.com/ashu08tri?tab=repositories' className="text-black">
           <Image src='/github.png' alt="github" width={24} height={24} />
         </Link>
-        <Link href='/' className="text-black">
+        <Link href='https://www.linkedin.com/in/ashutosh-tripathi-34b52b1b2/' className="text-black">
           <Image src='/linkedin.png' alt="linkedin" width={24} height={24} />
         </Link>
       </div>
